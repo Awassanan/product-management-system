@@ -11,4 +11,4 @@ This is my inventory web application created using HTML5, CSS3, JavaScript, and 
 ---
 
 ## Visit the Web Application
-You can try the inventory web application here: [My GitHub Pages](https://awassanan.github.io/Product-Management-System/).
+You can try the inventory web application here: [My GitHub Pages](https://awassanan.github.io/product-management-system/).
